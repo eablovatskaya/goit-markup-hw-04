@@ -162,8 +162,9 @@ img {
 	background-image: url("../images/img_hero.jpg");
 	padding-top: 200px;
 	padding-bottom: 200px;
-
-	/* <img src="./images/img_hero.jpg" alt="Воплощаем ваш проект в жизнь" width="370" height="294" / >  */
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
 }
 
 .hero-title {
